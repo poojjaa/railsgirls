@@ -1,2 +1,3 @@
 railsgirls 
 Changes made by Rohit
+This line will get a merge conflict
